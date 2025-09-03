@@ -1,5 +1,20 @@
 # ISSAPP - Interactive Suicide and Self-harm Analysis Platform for Public Policy
 
+<!-- Project Status & Info -->
+![Project Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Version](https://img.shields.io/badge/Version-1.0.0-blue)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Shiny](https://img.shields.io/badge/Shiny-blue?style=flat&logo=rstudio&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+<!-- Academic & Research -->
+![Academic](https://img.shields.io/badge/Research-Academic-purple)
+![Thesis](https://img.shields.io/badge/Type-Doctoral%20Thesis-blueviolet)
+![Public Health](https://img.shields.io/badge/Field-Public%20Health-crimson)
+![Colombia](https://img.shields.io/badge/Country-Colombia-yellow)
+![Years](https://img.shields.io/badge/Period-2009--2018-lightgrey)
+
+
 ![ISSAPP Logo](www/logo.png)
 
 ## Overview
